@@ -4,7 +4,7 @@ meu nome é Greicy de faria
 
 - Estou estudando na [alura](https://www.alura.com.br)
 - Estou me desemvolvendo na linguagem javaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desemvolvidos
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 - ### para entrar em contato comigo 📫
 
